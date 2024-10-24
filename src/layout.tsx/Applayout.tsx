@@ -8,7 +8,7 @@ const AppLayout = () => {
      
       <NavBar />
       <div className="">{<Outlet />}</div>
-      <Footer companyName="Nexgen-Eng" year={2024} />
+      <Footer companyName="Nexgen-Engineering" year={2024} />
     </div>
   );
 };

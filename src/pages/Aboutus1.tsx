@@ -7,7 +7,7 @@ import OurTeam from "./Ourteam";
 const AboutUs1: React.FC = () => {
   return (
     <div className="    ">
-      <div className="pt-36">
+      <div className="pt-36 m-0">
         <OurTeam />
       </div>
     </div>
